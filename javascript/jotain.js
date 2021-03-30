@@ -1,4 +1,4 @@
-function heippa()
+function kaanna()
 {
   var haettuTeksti = getElementById('teksti').value;
   var sananPituus = haettuTeksti.length;
