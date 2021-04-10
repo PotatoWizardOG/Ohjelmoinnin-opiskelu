@@ -10,6 +10,9 @@ function kaanna()
   }
   document.getElementById('vastaus').innerHTML = uusiSana
 
+  var taulukko = [1, 4, 5, 9];
+
+  console.log(taulukko[3]);
 
 
 }
