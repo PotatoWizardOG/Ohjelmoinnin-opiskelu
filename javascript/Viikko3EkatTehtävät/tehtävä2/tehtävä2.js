@@ -4,7 +4,7 @@ function muuta()
   var salasana = "<p>";
   for(var j = 0; j < ksana.length; j++)
   {
-    salasana += ksana[j] + 'Ã–';
+    salasana += ksana[j] + 'ö';
   }
   salasana += "</p>";
   document.getElementById('salasana').innerHTML = salasana;
